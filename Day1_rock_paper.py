@@ -2,7 +2,7 @@ import random
 
 # ASCII Art for choices
 choices = {
-        "kéo": '''
+   "kéo": '''
         _______
     ---'   ____)____
               ______)
