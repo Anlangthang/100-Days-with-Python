@@ -1,2 +1,3 @@
 # 100-Days-with-Python
-Learn Python
+Let's learn Python via mini project
+
